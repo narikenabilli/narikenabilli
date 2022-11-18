@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Vidya Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=narikenabilli&theme=dark&show_icons=true)
