@@ -5,7 +5,7 @@
 Welcome..! Here are some things to get you know about me:
 
 - 🔭 I’m currently working on Generative AI, UI, Fun stuff..
-- 🌱 I’m currently learning on how to integrate UI Libraries with Generative AI Tools
+- 🌱 I’m currently learning on how to integrate UI Libraries with Generative AI Tools [ChatGPT - Code Generator - with React](https://github.com/narikenabilli/chatgpt-react)
 - 💬 Ask me about Micro Frontend Architecture, Multi Tenant Architecture, JavaScript Frameworks like Angular, React etc.., Git, Project Management etc..,
 
 <!--
