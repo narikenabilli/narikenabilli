@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
 📫 How to reach me: narikenabilli@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I still play video games
+- ⚡ Fun fact: I still play video games, love to break learn and code new technologies 
 
 
 ![Vidya Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=narikenabilli&theme=dark&show_icons=true)
