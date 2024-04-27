@@ -8,14 +8,16 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Generative AI, UI, Fun stuff..
 - 🌱 I’m currently learning on how to integrate UI Libraries with Generative AI Tools
+- 💬 Ask me about Micro Frontend Architecture, Multi Tenant Architecture, JavaScript Frameworks like Angular, React etc.., Git, Project Management etc..,
 <--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
   -->
+  
 📫 How to reach me: narikenabilli@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I still play video games
 
 
 ![Vidya Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=narikenabilli&theme=dark&show_icons=true)
