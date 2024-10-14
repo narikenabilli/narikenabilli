@@ -18,7 +18,7 @@ Welcome..! Here are some things to get you know about me:
   
 📫 How to reach me: narikenabilli@gmail.com 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Love to break, learn and code new technologies and play video games with my kids
+- ⚡ Fun fact: Love to break, learn and code new technologies, playing with my kids
 
 
 ![Vidya Sagar's GitHub stats](https://github-readme-stats.vercel.app/api?username=narikenabilli&theme=dark&show_icons=true)
